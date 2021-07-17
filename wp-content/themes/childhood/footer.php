@@ -11,7 +11,7 @@
                 <div class="reply__title">
                     Оставьте ваш вопрос здесь
                 </div>
-                  <?php echo do_shortcode('[contact-form-7 id="138" title="Ваш вопрос"]') ?>  
+                  <?php echo do_shortcode('[contact-form-7 id="158" title="Форма вопроса"]') ?>  
             </div>
         </div>
         
